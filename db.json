@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "title": "Helloooos",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, urna vitae tincidunt interdum, nisi nisl aliquam eros, eget egestas nisl nisi sed nunc.",
+      "id": "2103210kc0210301230"
+    },
+    {
+      "id": "2103210kc0210301230",
+      "title": "Example Post 4",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, urna vitae tincidunt interdum, nisi nisl aliquam eros, eget egestas nisl nisi sed nunc. ",
+      "date": "2020-03-21T02:30:00.000Z"
+    }
+  ]
+}
